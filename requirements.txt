@@ -1,1 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+pmdarima
+numpy==1.23.5
+pmdarima==1.8.5
 
