@@ -6,5 +6,11 @@ scikit-learn==1.2.2
 statsmodels==0.13.5
 pmdarima==1.8.5
 streamlit==1.27.2
+pip --upgrade pip
+markdown-it-py
+mdurl
+pygments
+rich
+
 
 
