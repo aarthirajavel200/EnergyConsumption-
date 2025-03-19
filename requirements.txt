@@ -1,7 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
 pmdarima
 Cython
-numpy
 scipy
-pandas
-statsmodels
-scikit-learn
